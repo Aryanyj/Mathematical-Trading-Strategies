@@ -6,14 +6,12 @@ Chart Patterns:
 
 1) Ascending triangle
 2) Descending triangle
-3) Bear flag
-4) Bull flag
-5) Cup and handle
-6) Inverse cup and handle
-7) Head and shoulder
-8) Inverse head and shoulder
-9) Rounding top
-10) Rounding bottom
+3) Cup and handle
+4) Inverse cup and handle
+5) Head and shoulder
+6) Inverse head and shoulder
+7) Rounding top
+8) Rounding bottom
 
 
 When submitting your assignment, make sure to include screenshots of the stock charts with timestamps indicating the start of each pattern. Remember to provide separate screenshots for each of the five chart patterns showcasing your observations.
